@@ -64,7 +64,7 @@ The exercises today will focus on how to construct the actual docker file, as th
 your own container.
 
 ## Docker sharing
-The hole point of using docker is that sharing applications becomes much easier. In general, we have two options
+The whole point of using docker is that sharing applications becomes much easier. In general, we have two options
 
 * After creating the `Dockerfile` we can simply commit it to github (its just a text file) and then ask other users
   to simple build the image by themselves.
